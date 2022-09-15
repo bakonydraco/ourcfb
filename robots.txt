@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bakonydraco.github.io/ourcfb/sitemap.xml
